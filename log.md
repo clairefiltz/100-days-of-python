@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: June 23, 2022 - Thursday
-##### (delete me or comment me out)
+##### 
 
 **Today's Progress**: 
 
