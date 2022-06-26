@@ -14,14 +14,14 @@
 
 **Link to work:** https://www.codewars.com/kata/reviews/56a5da92af136c8210000051/groups/62b7244398e7f90001638193
 
-### Day 2: June 25, 2022 - Saturday
+### Day 2: June 26, 2022 - Sunday
 
 
 **Today's Progress**:
 
 **Thoughts:**
 
-**Link to work:**
+**Link to work:** https://www.codewars.com/kata/reviews/555acb6d4f0c35acb5000084/groups/5562d60a3d17255fd10000c4,
 
 ### Day 3: June 26, 2022 - Sunday
 
