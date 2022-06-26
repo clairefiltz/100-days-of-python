@@ -15,8 +15,6 @@
 **Link to work:** [Challenge 1](https://www.codewars.com/kata/reviews/56a5da92af136c8210000051/groups/62b7244398e7f90001638193)
 
 
-https://www.codewars.com/kata/reviews/56a5da92af136c8210000051/groups/62b7244398e7f90001638193
-
 ### Day 2: June 26, 2022 - Sunday
 
 
