@@ -21,7 +21,7 @@
 
 **Thoughts:** It was interesting to learn more about RegEx, as this is one topic I want to get better at. 
 
-**Link to work:** https://www.codewars.com/kata/reviews/555acb6d4f0c35acb5000084/groups/5562d60a3d17255fd10000c4,https://www.codewars.com/kata/reviews/5972cebcabb32828300000c2/groups/5972d3c7abb328df060000e5 
+**Link to work:** https://www.codewars.com/kata/reviews/555acb6d4f0c35acb5000084/groups/5562d60a3d17255fd10000c4, https://www.codewars.com/kata/reviews/5972cebcabb32828300000c2/groups/5972d3c7abb328df060000e5 
 
 ### Day 3: June 27, 2022 - Monday
 
