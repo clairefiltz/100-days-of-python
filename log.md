@@ -17,13 +17,41 @@
 ### Day 2: June 26, 2022 - Sunday
 
 
+**Today's Progress**: I completed two codewars challenges and learned a bit more about RegEx.  
+
+**Thoughts:** It was interesting to learn more about RegEx, as this is one topic I want to get better at. 
+
+**Link to work:** https://www.codewars.com/kata/reviews/555acb6d4f0c35acb5000084/groups/5562d60a3d17255fd10000c4,https://www.codewars.com/kata/reviews/5972cebcabb32828300000c2/groups/5972d3c7abb328df060000e5 
+
+### Day 3: June 27, 2022 - Monday
+
+
 **Today's Progress**:
 
 **Thoughts:**
 
-**Link to work:** https://www.codewars.com/kata/reviews/555acb6d4f0c35acb5000084/groups/5562d60a3d17255fd10000c4,
+**Link to work:**
 
-### Day 3: June 26, 2022 - Sunday
+
+### Day 4: June 28, 2022 - Tuesday
+
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 5: June 29, 2022 - Wednesday
+
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 6: June 30, 2022 - Thursday
 
 
 **Today's Progress**:
