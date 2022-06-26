@@ -12,7 +12,7 @@
 
 **Thoughts:** It had been a while since I wrote some code, so just this one exercise was a challenge.
 
-**Link to work:** [Challenge 1]([https://pages.github.com/)(https://www.codewars.com/kata/reviews/56a5da92af136c8210000051/groups/62b7244398e7f90001638193)).
+**Link to work:** [Challenge 1](https://www.codewars.com/kata/reviews/56a5da92af136c8210000051/groups/62b7244398e7f90001638193)
 
 
 https://www.codewars.com/kata/reviews/56a5da92af136c8210000051/groups/62b7244398e7f90001638193
