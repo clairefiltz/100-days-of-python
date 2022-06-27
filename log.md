@@ -27,11 +27,11 @@
 ### Day 3: June 27, 2022 - Monday
 
 
-**Today's Progress**:
+**Today's Progress**: I completed one codewars challenge, which reviewed some fundamental functions. 
 
-**Thoughts:**
+**Thoughts:** I should review more fundamental functions to review my knowledge. This will help me later on when working on my projects.
 
-**Link to work:**
+**Link to work:** [Challenge 1](https://www.codewars.com/kata/reviews/580a6b1b9e05de89e4000029/groups/62ba1aa748f95e0001821db7)
 
 
 ### Day 4: June 28, 2022 - Tuesday
