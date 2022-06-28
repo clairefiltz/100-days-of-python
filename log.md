@@ -37,11 +37,11 @@
 ### Day 4: June 28, 2022 - Tuesday
 
 
-**Today's Progress**:
+**Today's Progress**: I completed one codewars challenge!
 
-**Thoughts:**
+**Thoughts:** It was an easy challenge!
 
-**Link to work:**
+**Link to work:** [Challenge 1](https://www.codewars.com/kata/reviews/559597e79987562a3300002d/groups/62bb545e0aecbd0001370f2d)
 
 ### Day 5: June 29, 2022 - Wednesday
 
