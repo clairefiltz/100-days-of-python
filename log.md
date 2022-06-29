@@ -46,11 +46,11 @@
 ### Day 5: June 29, 2022 - Wednesday
 
 
-**Today's Progress**:
+**Today's Progress**: I completed ... codewars challenge. 
 
-**Thoughts:**
+**Thoughts:** I feel like I am getting better at solving the easy challenges, because I am revisiting basic concepts like for loops, if conditions etc. 
 
-**Link to work:**
+**Link to work:** [Challenge 1](https://www.codewars.com/kata/reviews/5ea1388bae80800001152169/groups/62bcaf8860967b0001eadea0)
 
 ### Day 6: June 30, 2022 - Thursday
 
