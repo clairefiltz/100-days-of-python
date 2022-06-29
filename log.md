@@ -50,7 +50,7 @@
 
 **Thoughts:** I feel like I am getting better at solving the easy challenges, because I am revisiting basic concepts like for loops, if conditions etc. 
 
-**Link to work:** [Link to Challenge 1](https://www.codewars.com/kata/reviews/5ea1388bae80800001152169/groups/62bcaf8860967b0001eadea0)
+**Link to work:** [Link to Challenge 1](https://www.codewars.com/kata/reviews/5ea1388bae80800001152169/groups/62bcaf8860967b0001eadea0), [Link to Challenge 2](https://www.codewars.com/kata/reviews/55c4624d0538cef0df00009c/groups/5bc58eef168568c3fe0006a2)
 
 ### Day 6: June 30, 2022 - Thursday
 
