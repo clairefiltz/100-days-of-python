@@ -55,8 +55,8 @@
 ### Day 6: June 30, 2022 - Thursday
 
 
-**Today's Progress**:
+**Today's Progress**: I completed more codewars challenges.
 
-**Thoughts:**
+**Thoughts:** It's getting easier to solve the easy challenges.
 
-**Link to work:**
+**Link to work:** [Link to Challenge 1](https://www.codewars.com/kata/reviews/56f6b7cd9b6590d2d80000e8/groups/56f70e039400f55e4a0015b3)
