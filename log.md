@@ -60,3 +60,13 @@
 **Thoughts:** It's getting easier to solve the easy challenges.
 
 **Link to work:** [Link to Challenge 1](https://www.codewars.com/kata/reviews/56f6b7cd9b6590d2d80000e8/groups/56f70e039400f55e4a0015b3)
+
+### Day 7: July 1, 2022 - Friday
+
+
+**Today's Progress**: I completed one challenge.
+
+**Thoughts:** It's getting easier to solve the easy challenges.
+
+**Link to work:** [Link to Challenge 1](https://www.codewars.com/kata/reviews/57b705438a36ac1d460015eb/groups/62bf07a206a2780001247752)
+
