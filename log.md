@@ -70,7 +70,7 @@
 
 **Link to work:** [Link to Challenge 1](https://www.codewars.com/kata/reviews/57b705438a36ac1d460015eb/groups/62bf07a206a2780001247752)
 
-### Day 8: July 2, 2022 - Friday
+### Day 8: July 2, 2022 - Saturday
 
 
 **Today's Progress**: I completed one challenge.
@@ -78,3 +78,13 @@
 **Thoughts:** I learned about recursion and Fibonacci sequences.
 
 **Link to work:** [Link to Challenge 1](https://www.codewars.com/kata/reviews/62555afc27d7600001072892/groups/62c041216a137000018b7589)
+
+
+### Day 9: July 3, 2022 - Sunday
+
+
+**Today's Progress**: I completed one challenge.
+
+**Thoughts:** I didn't have much time today, so I just did a quick debugging challenge.
+
+**Link to work:** [Link to Challenge 1](https://www.codewars.com/kata/reviews/58781655a9302459150001a3/groups/62c1e2fd4989dd00011b2e8b)
